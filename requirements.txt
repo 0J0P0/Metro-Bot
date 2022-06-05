@@ -1,0 +1,9 @@
+fuzzysearch==0.7.3
+haversine==2.5.1
+matplotlib==3.5.2
+networkx==2.8
+osmnx==1.1.2
+pandas==1.4.2
+python_telegram_bot==13.11
+staticmap==0.5.5
+telegram==0.0.1

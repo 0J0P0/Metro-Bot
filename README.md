@@ -62,7 +62,7 @@ If Metro-Bot has been executed properly, it will answer you with introduction me
 
 Once you use the `/find` command and then the `/guide 'number of the desired restaurant'`, you should get a result like this:
 
-![Metro-Bot/path.png](Metro-Bot/path.png)
+![Images/path.png](Images/path.png)
 
 Remember to use the command `/help` to get to know all the available commands and their uses.
 
